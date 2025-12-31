@@ -4,6 +4,8 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="ic_launcher_background">#DFEFE5</color>
+
     <!-- Media3: Remove color overlay on visible player controls -->
     <color name="exo_bottom_bar_background" tools:override="true">@android:color/transparent</color>
     <color name="exo_black_opacity_60" tools:override="true">@android:color/transparent</color>
